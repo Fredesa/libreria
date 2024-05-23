@@ -1,6 +1,6 @@
 # libreria
 
-Pryecto de prueba tecnica
+Proyecto de prueba tecnica
 
 ScreenShots
 
