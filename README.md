@@ -1,16 +1,8 @@
 # libreria
 
-A new Flutter project.
+Pryecto de prueba tecnica
 
-## Getting Started
+ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Fredesa/libreria/assets/67815106/aa3b330c-2e03-4aff-bab1-a8049a6642bf)
+![image](https://github.com/Fredesa/libreria/assets/67815106/599e19d6-aad1-4db7-8d0b-a5ba51c10821)
