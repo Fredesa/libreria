@@ -1,0 +1,31 @@
+name: libreria
+description: Prueba tecninca.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  provider: ^6.0.1
+  cached_network_image: ^3.1.0
+  meta: ^1.9.1
+  flutter_riverpod: ^1.0.0-dev.11
+  shared_preferences: ^2.0.6
+  mocktail: ^1.0.3
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  mockito: ^5.0.16
+  build_runner: ^2.1.7
+  network_image_mock: ^2.1.1
+
+  
+flutter:
+  uses-material-design: true
